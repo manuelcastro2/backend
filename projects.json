@@ -1,0 +1,34 @@
+[
+  {
+    "id": "dcdd0fad-a94c-4810-8acc-5f108d3b18c3",
+    "name": "Project of system of management of inventory",
+    "dateInitial": "2013-08-05",
+    "dateFinal": "2013-12-05",
+    "progressing": 0,
+    "stateProject": "start",
+    "tasks": [
+      {
+        "id":1,
+        "name": "realize el diagraph de base de dates",
+        "description": "la base de dates debe llevar esta cantidad de tablas",
+        "state": false
+      }
+    ]
+  },
+  {
+    "id": "c8a7d63f-3b04-44d3-9d95-8782fd7dcfaf",
+    "name": "Project of system of neurons",
+    "dateInitial": "2013-08-05",
+    "dateFinal": "2013-12-05",
+    "progressing": 0,
+    "stateProject": "Start",
+    "tasks": [
+      {
+        "id":1,
+        "name": "realize el diagraph de base de dates",
+        "description": "la base de dates debe llevar esta cantidad de tablas",
+        "state": false
+      }
+    ]
+  }
+]
